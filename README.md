@@ -1,2 +1,3 @@
 # payment-form
-design a payment a form by using html and css 
+the tool are used in this projects that is html only
+Author - piyush Shrivastav
